@@ -1,2 +1,5 @@
-vk-api>=11.9.9
-requests>=2.31.0
+vkbottle>=4.3,<5
+SQLAlchemy>=2.0,<3
+aiosqlite>=0.19
+asyncpg>=0.29
+python-dotenv>=1.0
